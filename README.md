@@ -1,6 +1,6 @@
 # 🧩 Zip Solver (for LinkedIn's Daily Puzzle)
 
-A JavaScript-based solver for [Zip](https://www.linkedin.com/help/linkedin/answer/a7445030), LinkedIn’s daily logic puzzle. This tool automates solving the path-based game by computing valid paths that:
+A JavaScript-based [solver](https://grmleqomlkku5eeinz4brirovcuckjun.github.io/linkedin-zip-solver/) for [Zip](https://www.linkedin.com/help/linkedin/answer/a7445030), LinkedIn’s daily logic puzzle. This tool automates solving the path-based game by computing valid paths that:
 
 1. Connect numbered cells in ascending order,
 2. Fill every cell exactly once,
